@@ -6,7 +6,7 @@ An AI-powered web application that generates high-quality images from natural la
 
 This project was developed as part of the Prodigy InfoTech Generative AI Internship (Task 2). It demonstrates the capabilities of Generative AI by converting user text prompts into realistic, high-quality images using the Stable Diffusion v1.5 model. The application offers an intuitive web interface for generating and downloading AI-created images.
 
-✨ Features
+✨ Features  
 
 * 🖼️ Generate images from text prompts
 * 🤖 Powered by Stable Diffusion v1.5
